@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Witaj Przywoływaczu na Moim Repozytorium na GitHub!
+# Witaj Przywoływaczu w Moim Repozytorium na GitHub!
 
 Cześć! 👋 Jestem SouthKioto, początkującym programistą, który kilka lat temu rozpoczą fascynującą podróż w światie tworzenia stron internetowych. To repozytorium pełni rolę mojego miejsca do eksperymentowania, gdzie testuję różne rzeczy związane z React, C# i Bootstrap.
 ## O Mnie
