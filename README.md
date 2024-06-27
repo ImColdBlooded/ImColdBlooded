@@ -29,7 +29,7 @@ Jestem człowiekiem, który konsekwentnie dąży do opanowania sztuki programowa
 
 - 🚀 **Projekty:** Różnorodne projekty prezentujące mój postęp i zastosowanie zdobytych umiejętności.
 
-## Najczęściej używane języki
+## Statystyki
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SouthKioto&show_icons=true&theme=radical&hide_title=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouthKioto&layout=compact&theme=radical)
 
