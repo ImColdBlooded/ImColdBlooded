@@ -30,6 +30,6 @@ Jestem człowiekiem, który konsekwentnie dąży do opanowania sztuki programowa
 - 🚀 **Projekty:** Różnorodne projekty prezentujące mój postęp i zastosowanie zdobytych umiejętności.
 
 ## Najczęściej używane języki
-[![Używane języki](https://img.shields.io/github/languages/count/SouthKioto?style=for-the-badge)](https://github.com/SouthKioto)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SouthKioto&show_icons=true&theme=radical&hide_title=true&include_all_commits=true)
 
 
