@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Witaj w Moim Repozytorium na GitHub!
-
-Intermediate programmer.
+# Hello
+I am an intermediate programmer creating projects in C#, React Js, HTML, CSS and PHP
 
 
 ## Statystyki
