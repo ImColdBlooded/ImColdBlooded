@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <h2 align="center">I am an intermediate developer creating projects in C#, React Js, HTML, CSS and PHP. 
 I am also a big fan of anime and games. </h2>
 
-
-![image]([{(https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)}])
+<h2>I am currently improving my skills in: </h2>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 
 ## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SouthKioto&show_icons=true&theme=radical&hide_title=true&include_all_commits=true)
