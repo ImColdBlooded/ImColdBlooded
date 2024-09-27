@@ -14,20 +14,8 @@ Here are some ideas to get you started:
 -->
 # Witaj w Moim Repozytorium na GitHub!
 
-Cześć! 👋 Jestem SouthKioto, początkującym programistą, który kilka lat temu rozpoczą fascynującą podróż w światie tworzenia stron internetowych. To repozytorium pełni rolę mojego miejsca do eksperymentowania, gdzie testuję różne rzeczy związane z React, C# i Bootstrap.
-## O Mnie
+Intermediate programmer.
 
-Jestem człowiekiem, który konsekwentnie dąży do opanowania sztuki programowania. Obecnie skupiam się na:
-
-- **React:** Zagłębiam się w świat front-end developmentu przy użyciu React, eksplorując jego komponenty, zarządzanie stanem i wszystko, co ta biblioteka ma do zaoferowania.
-
-- **C#:** Buduję fundamenty back-end developmentu za pomocą C#. Od podstawowej składni po bardziej zaawansowane koncepcje, każda linia kodu to krok naprzód.
-
-- **Bootstrap:** Tworzę atrakcyjne wizualnie i responsywne interfejsy użytkownika za pomocą Bootstrapa, ponieważ dobry design jest równie ważny co funkcjonalność.
-
-## Co Znajdziesz Tutaj
-
-- 🚀 **Projekty:** Różnorodne projekty prezentujące mój postęp i zastosowanie zdobytych umiejętności.
 
 ## Statystyki
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SouthKioto&show_icons=true&theme=radical&hide_title=true&include_all_commits=true)
