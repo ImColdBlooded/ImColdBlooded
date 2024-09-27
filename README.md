@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <h2>I am an intermediate developer creating projects in C#, React Js, HTML, CSS and PHP. 
 I am also a big fan of anime and games. </h2>
 
-<h2>I am currently working in: </h2>
-<span align="center">
+<h2 align="center">I am currently working in: </h2>
+<p align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
