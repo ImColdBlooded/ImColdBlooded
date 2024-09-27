@@ -35,7 +35,7 @@ I am also a big fan of anime and games. </h2>
 <h2 align="center">Stats</h2>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SouthKioto&hide_title=true&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SouthKioto&hide_title=true&show_icons=true&count_private=true&theme=dark" width="350"></a><br>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouthKioto&layout=compact&theme=dark" width="350"></a>
 </p>
 
