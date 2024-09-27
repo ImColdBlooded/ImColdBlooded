@@ -30,8 +30,11 @@ I am also a big fan of anime and games. </h2>
 </span>
 
 
-## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SouthKioto&show_icons=true&theme=radical&hide_title=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouthKioto&layout=compact&theme=radical)
+<h2 align="center">Stats</h2>
+<p align="center">
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SouthKioto&show_icons=true&theme=radical&hide_title=true&include_all_commits=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouthKioto&layout=compact&theme=radical)
+</p>
+
 
 
