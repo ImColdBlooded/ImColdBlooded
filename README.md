@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hello 🙌</h1>
-<h2>I am an intermediate developer creating projects in C#, React Js, HTML, CSS and PHP. 
+<h2 align="center">I am an intermediate developer creating projects in C#, React Js, HTML, CSS and PHP. 
 I am also a big fan of anime and games. </h2>
 
 <h2 align="center">I am currently working in: </h2>
