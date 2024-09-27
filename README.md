@@ -13,10 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hello
-I am an intermediate programmer creating projects in C#, React Js, HTML, CSS and PHP
+I am an intermediate developer creating projects in C#, React Js, HTML, CSS and PHP. 
+I am also a big fan of anime and games. 
 
+![image]([{BadgeURLHere}](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white))
 
-## Statystyki
+## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SouthKioto&show_icons=true&theme=radical&hide_title=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouthKioto&layout=compact&theme=radical)
 
