@@ -13,11 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hello 🙌</h1>
-<h2 align="center">I am an intermediate developer creating projects in C#, React Js, HTML, CSS and PHP. 
+<h2>I am an intermediate developer creating projects in C#, React Js, HTML, CSS and PHP. 
 I am also a big fan of anime and games. </h2>
 
-<h2>I am currently improving my skills in: </h2>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<h2>I am currently working in: </h2>
+<span align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" />
+</span>
+
 
 ## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SouthKioto&show_icons=true&theme=radical&hide_title=true&include_all_commits=true)
