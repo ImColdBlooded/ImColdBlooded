@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SouthKioto&show_icons=true&theme=radical&hide_title=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouthKioto&layout=compact&theme=radical)
 -->
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00000&center=true&width=500&lines=Hello+World!;Im+Bartek!" alt="Typing SVG" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fffff&center=true&width=500&lines=Hello+World!;Im+Bartek!" alt="Typing SVG" /></h1>
 <h2 align="center">I am an intermediate developer creating projects in C#, React Js, HTML, CSS and PHP. 
 I am also a big fan of anime and games. </h2>
 
