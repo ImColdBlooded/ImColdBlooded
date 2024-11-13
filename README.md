@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouthKioto&layout=compact&theme=radical)
 -->
 
-<body style="font-family: "Consolas"">
+<body style="font-family: Consolas">
   <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello+World!;Im+Bartek" alt="Typing SVG" />
   </h1>
+  
   <h2 align="center">I am an intermediate developer creating projects in C#, React Js, HTML, CSS and PHP. 
   I am also a big fan of anime and games. </h2>
   
@@ -34,7 +35,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </span>
-  
   
   <h2 align="center">Stats</h2>
   
